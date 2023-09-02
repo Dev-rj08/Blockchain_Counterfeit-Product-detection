@@ -5,7 +5,7 @@
 
 ### Software Requirements:
 
--Front End : [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-Front End : [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML),[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 -Language : [Solidity 0.8.21](https://docs.soliditylang.org/en/v0.8.21/)
 
 
