@@ -72,4 +72,5 @@ Solidity is optimized for the Ethereum Virtual Machine (EVM), which is a critica
 
 ## Applications
 
-- Another issue with blockchain-based product authentication is adoption and acceptance. As blockchain technology is still in its infancy, it may not be accepted by some stakeholders, including suppliers, distributors and customers. This may limit the effectiveness of blockchain-based product authentication.
+A fully functional application of fake product identification can effectively reduce the threshold of anti-counterfeit branded products and provide industries with limited funds and a more straightforward approach to provide consumers with confidence and reassurance that they do not buy fake goods, which is unacceptable. All in all, this application based on blockchain technology could prove to be a lifesaver saver for companies and provide a new trading, ordering, and purchasing system that is more secure and friendly. The future operation of the system can be proof of the simplicity of the code, which can indirectly increase the trust of consumers in decentralized applications
+
