@@ -30,10 +30,19 @@
 
 - Blockchain enables interactions through consensus mechanisms. Consensus means Agreement and protocols.
 
-- Implementing Smart contracts for secure communication.
+- Implementing Smart contracts for secure communication and self executing agreements.
 
 - And the consumer can scan the QR code or barcode using their smart phones,tablets and any device from anywhere.
 
+- Blockchain handles large data and retrieval of data is easier. Fault tolerance as it is resilent to failures.
+
+-  Ethereum transactions are programmable; can be
+automatic. Creates ledgers for
+conditional transactions and
+beyond. Mining algorithm used by
+Ethereum is ethash Algorithm.
+
+- 
 
 
 - Identification of fake product using poses a significant threat to consumer's finance,health, safety and repetation of the particular companies.
