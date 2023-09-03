@@ -48,7 +48,7 @@ means of ensuring the legitimacy of product. And Safeguarding the consumers.
 - Identification of fake product using poses a significant threat to consumer's finance,health, safety and repetation of the particular companies.
 
 
-## SOLIDITY LANGUAGE
+## SOLIDITY
 
 Solidity is a programming language specifically designed for writing smart contracts on the Ethereum blockchain and Ethereum-compatible blockchains. 
 
