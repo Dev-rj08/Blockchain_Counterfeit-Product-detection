@@ -24,7 +24,17 @@
 
 - The goal of the system is to utilization of QR codes and barcodes to facilitate easy and efficient verification and validation of the product.
 
--
+- The whole project focus on the detection fake product using blockchain technology.
+
+- Blockchain is a decentralized ledger technology for recording transactions and data .It consists of cryptographically linked blocks, ensuring data integrity.
+
+- Blockchain enables interactions through consensus mechanisms. Consensus means Agreement and protocols.
+
+- Implementing Smart contracts for secure communication.
+
+- And the consumer can scan the QR code or barcode using their smart phones,tablets and any device from anywhere.
+
+
 
 - Identification of fake product using poses a significant threat to consumer's finance,health, safety and repetation of the particular companies.
 
