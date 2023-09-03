@@ -36,11 +36,7 @@
 
 - Blockchain handles large data and retrieval of data is easier. Fault tolerance as it is resilent to failures.
 
--  Ethereum transactions are programmable; can be
-automatic. Creates ledgers for
-conditional transactions and
-beyond. Mining algorithm used by
-Ethereum is ethash Algorithm.
+-  Ethereum transactions are programmable; can be automatic. Creates ledgers for conditional transactions and beyond. Mining algorithm used by Ethereum is ethash Algorithm.
 
 - By using all features mentioned above the system offers a robust
 means of ensuring the legitimacy of product. And Safeguarding the consumers.
