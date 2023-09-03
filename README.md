@@ -42,8 +42,12 @@ conditional transactions and
 beyond. Mining algorithm used by
 Ethereum is ethash Algorithm.
 
-- 
+- By using all features mentioned above the system offers a robust
+means of ensuring the legitimacy of product. And Safeguarding the consumers.
 
+- Customers will be able to obtain and validate product information via QR codes by developing a decentralised application (DApp) with an intuitive graphic user interface (GUI).
+
+- Maintaining a blockchain log of previous transactions will stop unauthorised changes from occurring and ensure transparent and traceable goods movements.
 
 - Identification of fake product using poses a significant threat to consumer's finance,health, safety and repetation of the particular companies.
 
