@@ -18,9 +18,9 @@
 
 - Now a days the profileration of fake or counterfeit products in the market has far reaching consequences,keeping the consumer's safety in danger, erode company's reputation and leading to finance lost.So, we have planned to produce this system with the help of blockchain technology to avoid this consequences.
 
-- As a result of this, the fake product identifacation using blockchain technology help to verify the product authencity and to store all transactions history. Making more transparent and using cryptographic enchancing the security and privacy features of the product also.
+- As a result of this, the fake product identifacation using blockchain technology help to verify the product authencity and to store all transactions history. Making more transparent and using cryptographic techniques to enchancing the security and privacy features of the product also.
 
-- Implementing a blockchain based system to know authencity and validation of the product tp avoid the replicas of product.
+- Implementing a blockchain based system to know authencity and validation of the product to avoid the replicas of product.
 
 - The goal of the system is to utilization of QR codes and barcodes to facilitate easy and efficient verification and validation of the product.
 
@@ -38,8 +38,7 @@
 
 -  Ethereum transactions are programmable; can be automatic. Creates ledgers for conditional transactions and beyond. Mining algorithm used by Ethereum is ethash Algorithm.
 
-- By using all features mentioned above the system offers a robust
-means of ensuring the legitimacy of product. And Safeguarding the consumers.
+- By using all features mentioned above the system offers a robust means of ensuring the legitimacy of product and Safeguarding the consumers.
 
 - Customers will be able to obtain and validate product information via QR codes by developing a decentralised application (DApp) with an intuitive graphic user interface (GUI).
 
