@@ -16,7 +16,7 @@
 
 ### Description
 
-- Now a days the profileration of fake or counterfeit products in the market has far reaching consequences,keeping the consumer's safety in danger, erode company's reputation and leading to finance lost. we have planned to produce this system with the help of blockchain technology.
+- Now a days the profileration of fake or counterfeit products in the market has far reaching consequences,keeping the consumer's safety in danger, erode company's reputation and leading to finance lost.So, we have planned to produce this system with the help of blockchain technology to avoid this consequences.
 
 - As a result of this, the fake product identifacation using blockchain technology help to verify the product authencity and to store all transactions history. Making more transparent and using cryptographic enchancing the security and privacy features of the product also.
 
