@@ -14,7 +14,7 @@
 - RAM: Greater than 4 GB
 - Processor: I3 and Above
 
-### Description
+## Description
 
 - Now a days the profileration of fake or counterfeit products in the market has far reaching consequences,keeping the consumer's safety in danger, erode company's reputation and leading to finance lost.So, we have planned to produce this system with the help of blockchain technology to avoid this consequences.
 
