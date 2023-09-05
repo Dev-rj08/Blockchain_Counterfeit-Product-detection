@@ -14,25 +14,25 @@
 - RAM: Greater than 4 GB
 - Processor: I3 and Above
 
+## Project Statement
+- The worldwide improvement of an item or innovation consistently accompanies hazard factors, for example, forging and duplication. Forging items can influence the organization's name and the client's wellbeing. Fake items are causing a significant impact on the organization and the client's wellbeing.
+
+- Another example, if medicines having the barcode or Qr code helps to detect the medicines which are expired and make people aware of the situation and they can be saved. So, by integrating Fake Product Identification system helps in detecting the fake items and reduce the counterfeit product.
+
+- Counterfeit products threat across industries, undermining consumer trust, and compromising product safety. To address this issue, there is a need to leverage blockchain technology to create a secure, immutable, and transparent system for fake product detection and supply chain traceability.
+
+
 ## Description about the Fake product Identification using Blockchain Technology
 
-- Now a days the profileration of fake or counterfeit products in the market has far reaching consequences,keeping the consumer's safety in danger, erode company's reputation and leading to finance lost.So, we have planned to produce this system with the help of blockchain technology to avoid this consequences.
-
-- As a result of this, the fake product identifacation using blockchain technology help to verify the product authencity and to store all transactions history. Making more transparent and using cryptographic techniques to enchancing the security and privacy features of the product also.
+- Now a days the profileration of fake or counterfeit products in the market has far reaching consequences,keeping the consumer's safety in danger, erode company's reputation and leading to finance lost. As a result of this, the fake product identifacation using blockchain technology help to verify the product authencity and to store all transactions history. Making more transparent and using cryptographic techniques to enchancing the security and privacy features of the product also.
 
 - Implementing a blockchain based system to know authencity and validation of the product to avoid the replicas of product.
 
-- The goal of the system is to utilization of QR codes and barcodes to facilitate easy and efficient verification and validation of the product.
+- The goal of the system is to utilization of QR codes and barcodes to facilitate easy and efficient verification and validation of the product. The whole project focus on the detection fake product using blockchain technology.
 
-- The whole project focus on the detection fake product using blockchain technology.
+- Blockchain is a decentralized ledger technology for recording transactions and data .It consists of cryptographically linked blocks, ensuring data integrity. Blockchain enables interactions through consensus mechanisms. Consensus means Agreement and protocols.
 
-- Blockchain is a decentralized ledger technology for recording transactions and data .It consists of cryptographically linked blocks, ensuring data integrity.
-
-- Blockchain enables interactions through consensus mechanisms. Consensus means Agreement and protocols.
-
-- Implementing Smart contracts for secure communication and self executing agreements.
-
-- And the consumer can scan the QR code or barcode using their smart phones,tablets and any device from anywhere.
+- Implementing Smart contracts for secure communication and self executing agreements. And the consumer can scan the QR code or barcode using their smart phones,tablets and any device from anywhere.
 
 - Blockchain handles large data and retrieval of data is easier. Fault tolerance as it is resilent to failures.
 
@@ -69,6 +69,15 @@ Many blockchain projects and decentralized applications are built on Ethereum, m
 
 Solidity is optimized for the Ethereum Virtual Machine (EVM), which is a critical component of the Ethereum network. EVM compatibility ensures that Solidity contracts can be executed securely and consistently on the Ethereum blockchain.
 
+## Objetives
+- Product validity Assurance: By using blockchain to confirm the origin and validity of products, you can be sure that only genuine goods reach the market.
+- Consumer Protection: Protecting consumers from buying fake or counterfeit goods can increase their sense of security and confidence in the goods they are buying.
+- Brand Integrity: By actively preventing fake products from entering the market under a brand's name, you can safeguard the reputation and integrity of the company.
+- Supply Chain Transparency: By compiling a static record of each item's passage through the supply chain, you can increase supply chain transparency.
+- Quick Verification: Give customers the option to rapidly confirm the legitimacy of a product by looking for QR codes or other user-friendly techniques.
+- Reduction of Fraud: Reduce the use of counterfeit goods in fraud, and shield customers and businesses from exploitation.
+- Legal Protection: In the event of disagreements or legal actions involving fake goods, give firms legal protection.
+
 ## Applications
 
 A fully functional application of fake product identification can effectively reduce the threshold of anti-counterfeit branded products and provide industries with limited funds and a more straightforward approach to provide consumers with confidence and reassurance that they do not buy fake goods, which is unacceptable. All in all, this application based on blockchain technology could prove to be a lifesaver saver for companies and provide a new trading, ordering, and purchasing system that is more secure and friendly. The future operation of the system can be proof of the simplicity of the code, which can indirectly increase the trust of consumers in decentralized applications
@@ -81,4 +90,3 @@ A fully functional application of fake product identification can effectively re
 
 - Another issue with blockchain-based product authentication is adoption and acceptance. As blockchain technology is still in its infancy, it may not be accepted by some stakeholders, including suppliers, distributors and customers. This may limit the effectiveness of blockchain-based product authentication.
 
-### Project Statement
