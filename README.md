@@ -45,6 +45,10 @@
 
 - Identification of fake product using poses a significant threat to consumer's finance,health, safety and repetation of the particular companies.
 
+## Applications
+
+#### A fully functional application of fake product identification can effectively reduce the threshold of anti-counterfeit branded products and provide industries with limited funds and a more straightforward approach to provide consumers with confidence and reassurance that they do not buy fake goods, which is unacceptable. All in all, this application based on blockchain technology could prove to be a lifesaver saver for companies and provide a new trading, ordering, and purchasing system that is more secure and friendly. The future operation of the system can be proof of the simplicity of the code, which can indirectly increase the trust of consumers in decentralized applications.
+
 ## Importance of Application
 
 - #### To enhance supply chain transparency and traceability
@@ -136,10 +140,6 @@ Solidity is optimized for the Ethereum Virtual Machine (EVM), which is a critica
 
 #### Legal Protection:
 - In the event of disagreements or legal actions involving fake goods, give firms legal protection.
-
-## Applications
-
-A fully functional application of fake product identification can effectively reduce the threshold of anti-counterfeit branded products and provide industries with limited funds and a more straightforward approach to provide consumers with confidence and reassurance that they do not buy fake goods, which is unacceptable. All in all, this application based on blockchain technology could prove to be a lifesaver saver for companies and provide a new trading, ordering, and purchasing system that is more secure and friendly. The future operation of the system can be proof of the simplicity of the code, which can indirectly increase the trust of consumers in decentralized applications
 
 ## Limitations
 
