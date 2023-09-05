@@ -70,7 +70,7 @@ Using blockchain technology for identifying fake products involves a combination
 - Decentralization: Since blockchain operates on a decentralized system, no single entity has control over the entire blockchain, making it resistant to tampering.
 
 
-##Advantages:
+## Advantages:
 
 -  Transparency: Every stakeholder, from the manufacturer to the end consumer, can view the product's journey.
 
