@@ -13,6 +13,7 @@
 - Processor: I3 and Above
 
 ## Project Statement
+
 - The worldwide improvement of an item or innovation consistently accompanies hazard factors, for example, forging and duplication. Forging items can influence the organization's name and the client's wellbeing. Fake items are causing a significant impact on the organization and the client's wellbeing.
 
 - Another example, if medicines having the barcode or Qr code helps to detect the medicines which are expired and make people aware of the situation and they can be saved. So, by integrating Fake Product Identification system helps in detecting the fake items and reduce the counterfeit product.
@@ -44,6 +45,19 @@
 
 - Identification of fake product using poses a significant threat to consumer's finance,health, safety and repetation of the particular companies.
 
+## Importance of Application
+
+- #### To enhance supply chain transparency and traceability
+
+- #### To make sure that every consumer receiving the original product (i.e creating tamper proof record for every product).
+
+- #### To ensure only original products are being sold in market.
+
+- #### Improving traceability of product by recording every detail of product being produced.
+
+- #### To reduce the fake product manufacturers in the market, there by creating an environment free of fake goods.
+
+- #### To provides a user-friendly and efficient method for consumers to verify product authenticity, encouraging them to authenticate products easily.
 
 ## Mechanism explained through the diagram
 
