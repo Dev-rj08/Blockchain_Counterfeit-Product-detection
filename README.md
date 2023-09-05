@@ -1,4 +1,4 @@
-# Blockchain_Project23
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/99e2668b-ffb5-4b0e-bb09-9870a64eb1a6)# Blockchain_Project23
 
 ## FAKE PRODUCT IDENTIFICATION
 ### Identification of Duplicate/Fake Products Using Blockchain technology
@@ -46,6 +46,14 @@
 
 - Identification of fake product using poses a significant threat to consumer's finance,health, safety and repetation of the particular companies.
 
+
+## Mechanism explained through the diagram
+
+### Existing Methodology:
+<img width="558" alt="Screenshot 2023-09-05 at 10 44 27 PM" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/a8623a3b-80cf-46c1-9a63-1aabdddbcc9b">
+
+### Proposed Methodology:
+<img width="560" alt="Screenshot 2023-09-05 at 10 45 15 PM" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/0ebf307a-9545-4a3d-8d0f-7ccd24af6b5b">
 
 ## SOLIDITY
 
