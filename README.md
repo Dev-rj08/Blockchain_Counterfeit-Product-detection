@@ -53,6 +53,22 @@
 ### Proposed Methodology:
 <img width="560" alt="Screenshot 2023-09-05 at 10 45 15 PM" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/0ebf307a-9545-4a3d-8d0f-7ccd24af6b5b">
 
+## The Technology Used in this System
+
+Using blockchain technology for identifying fake products involves a combination of several technological components, including blockchain itself, smart contracts, and often, IoT (Internet of Things) devices or QR codes. Here’s a brief breakdown of how this system works:
+
+- Immutable Record: Blockchain’s primary feature is its immutability. Once data is recorded on a blockchain, it cannot be altered. This makes it a perfect system for recording authentic product data, such as manufacturing details, source materials, and supply chain logistics.
+  
+-  Unique Identifiers: Each authentic product is given a unique identifier, often in the form of a QR code, NFC tag, or RFID chip. This identifier is linked to the product's record on the blockchain.
+
+- Supply Chain Tracking: From manufacture to sale, every step in the product’s journey can be recorded on the blockchain. This includes details about where it was made, who handled it, where it was stored, and its journey to retail shelves. Each of these steps can be validated by different parties in the supply chain, adding to the product's verifiable history.
+
+- Smart Contracts: These automated, self-executing contracts with the agreement directly written into lines of code can be used to ensure certain criteria are met before a product moves to the next stage in the supply chain. They can automatically verify the authenticity of a product at every step.
+  
+- Consumer Verification: When a consumer is considering purchasing the product, they can scan the product's unique identifier (e.g., QR code) using a smartphone or another scanning device. This will provide them with the product's entire history, as recorded on the blockchain. If the product is fake, it either won’t have a history on the blockchain, or the information will not match the authentic product's details.
+
+- Decentralization: Since blockchain operates on a decentralized system, no single entity has control over the entire blockchain, making it resistant to tampering.
+
 ## SOLIDITY
 
 Solidity is a programming language specifically designed for writing smart contracts on the Ethereum blockchain and Ethereum-compatible blockchains. 
