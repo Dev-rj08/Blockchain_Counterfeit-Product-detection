@@ -69,13 +69,19 @@ Many blockchain projects and decentralized applications are built on Ethereum, m
 
 Solidity is optimized for the Ethereum Virtual Machine (EVM), which is a critical component of the Ethereum network. EVM compatibility ensures that Solidity contracts can be executed securely and consistently on the Ethereum blockchain.
 
-## Objetives
+## Objectives
 - Product validity Assurance: By using blockchain to confirm the origin and validity of products, you can be sure that only genuine goods reach the market.
+
 - Consumer Protection: Protecting consumers from buying fake or counterfeit goods can increase their sense of security and confidence in the goods they are buying.
+
 - Brand Integrity: By actively preventing fake products from entering the market under a brand's name, you can safeguard the reputation and integrity of the company.
+
 - Supply Chain Transparency: By compiling a static record of each item's passage through the supply chain, you can increase supply chain transparency.
+
 - Quick Verification: Give customers the option to rapidly confirm the legitimacy of a product by looking for QR codes or other user-friendly techniques.
+
 - Reduction of Fraud: Reduce the use of counterfeit goods in fraud, and shield customers and businesses from exploitation.
+
 - Legal Protection: In the event of disagreements or legal actions involving fake goods, give firms legal protection.
 
 ## Applications
