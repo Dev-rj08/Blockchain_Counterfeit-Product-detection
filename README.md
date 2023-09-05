@@ -135,3 +135,12 @@ A fully functional application of fake product identification can effectively re
 
 - Another issue with blockchain-based product authentication is adoption and acceptance. As blockchain technology is still in its infancy, it may not be accepted by some stakeholders, including suppliers, distributors and customers. This may limit the effectiveness of blockchain-based product authentication.
 
+
+
+## Reference
+
+- [Detection of Counterfeit Products using Blockchain](https://www.itm-conferences.org/articles/itmconf/pdf/2022/04/itmconf_icacc2022_03015.pdf)
+
+- [International journal of creative research thoughts (IRJCT)](https://ijcrt.org/papers/IJCRT2207253.pdf)
+
+- [Planning the application of blockchain technology in Identification of Counterfeit Products](https://www.sciencedirect.com/science/article/pii/S240589631931016X)
