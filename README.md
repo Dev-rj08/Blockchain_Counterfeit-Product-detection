@@ -1,5 +1,3 @@
-![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/99e2668b-ffb5-4b0e-bb09-9870a64eb1a6)# Blockchain_Project23
-
 ## FAKE PRODUCT IDENTIFICATION
 ### Identification of Duplicate/Fake Products Using Blockchain technology
 
