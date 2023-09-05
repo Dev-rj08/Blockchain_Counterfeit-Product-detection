@@ -80,3 +80,5 @@ A fully functional application of fake product identification can effectively re
 - Privacy is also a concern when it comes to blockchain-based product authentication. Although blockchain technology provides a secure and impenetrable record of transactions, data protection remains an issue. Companies must ensure that the information they collect and store complies with all applicable data protection laws.
 
 - Another issue with blockchain-based product authentication is adoption and acceptance. As blockchain technology is still in its infancy, it may not be accepted by some stakeholders, including suppliers, distributors and customers. This may limit the effectiveness of blockchain-based product authentication.
+
+### Project Statement
