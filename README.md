@@ -84,13 +84,13 @@ Planning for the safety and security of the nation's citizens and its consumers 
 
 ## Literature Review
 
-### Paper 1
+## Paper 1
 
 ## Planning the application of blockchain technology in identification of counterfeit products: sectorial prioritization
 
 The planning of the safety and security of its citizens and customers for businesses is a crucial obligation of policy makers and the governance system, as shown in this paper. The primary issue of counterfeit goods in the present is addressed in this study. In order to address the issue of counterfeiting in the Indian economy, this research identifies the demands and potential of distributed ledger technologies like blockchain. After gathering expert input to better understand the issue, the research employs the SWARA (Step-wise Weight Assessment Ratio Analysis)-WASPAS (Weighted Aggregated Sum Product Assessment) technique, which leads to the prioritisation of blockchain implementation in various industries. 
 
-### Paper 2
+## Paper 2
 
 ## Block-Supply Chain: A New Anti-Counterfeiting Supply Chain Using NFC and Blockchain.
 
