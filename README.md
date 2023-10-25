@@ -152,8 +152,8 @@ Solidity is optimized for the Ethereum Virtual Machine (EVM), which is a critica
 
 ## Reference
 
-- [Detection of Counterfeit Products using Blockchain](https://www.itm-conferences.org/articles/itmconf/pdf/2022/04/itmconf_icacc2022_03015.pdf)
+- [Planning the application of blockchain technology in Identification of Counterfeit Products](https://www.sciencedirect.com/science/article/pii/S240589631931016X)
+
 
 - [International journal of creative research thoughts (IRJCT)](https://ijcrt.org/papers/IJCRT2207253.pdf)
 
-- [Planning the application of blockchain technology in Identification of Counterfeit Products](https://www.sciencedirect.com/science/article/pii/S240589631931016X)
