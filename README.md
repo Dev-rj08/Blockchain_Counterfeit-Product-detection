@@ -1,5 +1,14 @@
 ## FAKE PRODUCT IDENTIFICATION
 ### Identification of Duplicate/Fake Products Using Blockchain technology
+### Introduction
+
+This discusses the problem of counterfeit goods in the Indian economy.
+The study identifies the advantages and disadvantages of using blockchain technology to stop counterfeiting.
+
+### Methodology
+
+To evaluate and rank the use of blockchain in various industries, the study employs the SWARA-WASPAS methodology.
+In order to comprehend the issue better, professional opinions were gathered.
 
 ### Software Requirements:
 
@@ -49,6 +58,12 @@ Planning for the safety and security of the nation's citizens and its consumers 
 
 - Identification of fake product using poses a significant threat to consumer's finance,health, safety and repetation of the particular companies.
 
+- Blockchain technology has the potential to address the issue of counterfeiting in various industries.It provides a distributed ledger system that can ensure transparency and security.
+
+- Blockchain can be applied in industries such as energy, biomedical, logistics, and manufacturing. It can help improve supply chain management and reduce the risk of counterfeit products.
+
+- Blockchain technology aligns with the principles of Industry 4.0.It can enhance the efficiency and reliability of manufacturing processes.
+
 ## Applications
 
  A fully functional application of fake product identification can effectively reduce the threshold of anti-counterfeit branded products and provide industries with limited funds and a more straightforward approach to provide consumers with confidence and reassurance that they do not buy fake goods, which is unacceptable. All in all, this application based on blockchain technology could prove to be a lifesaver saver for companies and provide a new trading, ordering, and purchasing system that is more secure and friendly. The future operation of the system can be proof of the simplicity of the code, which can indirectly increase the trust of consumers in decentralized applications.
@@ -70,6 +85,9 @@ Planning for the safety and security of the nation's citizens and its consumers 
 ## Mechanism explained through the diagram
 
 ### Existing Methodology:
+
+- Existing literature provides insights into the application of blockchain in various domains. It highlights the need for further research and the open issues in this field.
+
 <img width="558" alt="Screenshot 2023-09-05 at 10 44 27 PM" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/a8623a3b-80cf-46c1-9a63-1aabdddbcc9b">
 
 ### Proposed Methodology:
@@ -99,6 +117,10 @@ Using blockchain technology for identifying fake products involves a combination
 -  Tamper Proof: Due to blockchain's decentralized and immutable nature, the data is resistant to tampering.
 
 -  Trust: Consumers can trust the authenticity of their products as they can verify the entire journey of the product.
+
+## Challenges and Opportunities:
+
+- There are challenges in adopting blockchain technology in supply chains. However, there are also opportunities to leverage its benefits for a sustainable supply chain management.
 
 ## SOLIDITY
 
