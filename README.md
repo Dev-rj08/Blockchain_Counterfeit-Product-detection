@@ -82,6 +82,21 @@ Planning for the safety and security of the nation's citizens and its consumers 
 
 - #### To provides a user-friendly and efficient method for consumers to verify product authenticity, encouraging them to authenticate products easily.
 
+## Literature Review
+
+### Paper 1
+
+## Planning the application of blockchain technology in identification of counterfeit products: sectorial prioritization
+
+The planning of the safety and security of its citizens and customers for businesses is a crucial obligation of policy makers and the governance system, as shown in this paper. The primary issue of counterfeit goods in the present is addressed in this study. In order to address the issue of counterfeiting in the Indian economy, this research identifies the demands and potential of distributed ledger technologies like blockchain. After gathering expert input to better understand the issue, the research employs the SWARA (Step-wise Weight Assessment Ratio Analysis)-WASPAS (Weighted Aggregated Sum Product Assessment) technique, which leads to the prioritisation of blockchain implementation in various industries. 
+
+### Paper 2
+
+## Block-Supply Chain: A New Anti-Counterfeiting Supply Chain Using NFC and Blockchain.
+
+Currently, supply chains used to combat fake goods rely on a centralised authority. This design has problems with storage, failure, and single point processing. For these issues, blockchain technology has emerged as a potential solution. In this work, we propose the block-supply chain, a new decentralised supply chain that makes use of Near Field Communication (NFC) and blockchain technology to identify counterfeiting attempts. The centralised supply chain design is replaced with a new proposed consensus protocol termed block-supply chain, which finds a balance between security and efficiency. It is entirely decentralised, in contrast to current protocols. Our simulations show that the proposed protocol offers outstanding performance with a reasonable level of security when compared to the state-of-the-art consensus protocol Tendermint.
+
+
 ## Mechanism explained through the diagram
 
 ### Existing Methodology:
