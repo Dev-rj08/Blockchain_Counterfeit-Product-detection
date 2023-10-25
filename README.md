@@ -1,4 +1,4 @@
-## FAKE PRODUCT IDENTIFICATION
+## IDENTIFICATION OF COUNTERFEIT PRODUCTS
 ### Identification of Duplicate/Fake Products Using Blockchain technology
 ### Introduction
 
