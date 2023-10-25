@@ -110,6 +110,10 @@ Currently, supply chains used to combat fake goods rely on a centralised authori
 
 <img width="560" alt="Screenshot 2023-09-05 at 10 45 15 PM" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/0ebf307a-9545-4a3d-8d0f-7ccd24af6b5b">
 
+## Design Implementation
+
+<img width="569" alt="Screenshot 2023-10-25 at 12 11 58 PM" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/3976e6a2-645b-433f-b091-883f8d1c50cf">
+
 ## The Technology Used in this System
 
 Using blockchain technology for identifying fake products involves a combination of several technological components, including blockchain itself, smart contracts, and often, IoT (Internet of Things) devices or QR codes. Here’s a brief breakdown of how this system works:
