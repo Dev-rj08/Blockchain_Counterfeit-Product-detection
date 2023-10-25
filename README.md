@@ -91,6 +91,8 @@ Planning for the safety and security of the nation's citizens and its consumers 
 <img width="558" alt="Screenshot 2023-09-05 at 10 44 27 PM" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/a8623a3b-80cf-46c1-9a63-1aabdddbcc9b">
 
 ### Proposed Methodology:
+- In proposed methodology we are verifying the product by One time password at each every phase of exporting the product.
+
 <img width="560" alt="Screenshot 2023-09-05 at 10 45 15 PM" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/0ebf307a-9545-4a3d-8d0f-7ccd24af6b5b">
 
 ## The Technology Used in this System
