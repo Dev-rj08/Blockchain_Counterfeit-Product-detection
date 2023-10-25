@@ -12,6 +12,10 @@
 - RAM: Greater than 4 GB
 - Processor: I3 and Above
 
+## Abstraction
+
+Planning for the safety and security of the nation's citizens and its consumers for businesses is a key responsibility of the governance system. The primary issue of counterfeit goods in the present is addressed in this study. In order to address the issue of counterfeiting in the Indian economy, this research identifies the needs and potential of distributed ledger technologies like blockchain.
+
 ## Project Statement
 
 - The worldwide improvement of an item or innovation consistently accompanies hazard factors, for example, forging and duplication. Forging items can influence the organization's name and the client's wellbeing. Fake items are causing a significant impact on the organization and the client's wellbeing.
