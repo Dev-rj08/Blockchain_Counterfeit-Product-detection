@@ -175,6 +175,23 @@ Solidity is optimized for the Ethereum Virtual Machine (EVM), which is a critica
 
 - Another issue with blockchain-based product authentication is adoption and acceptance. As blockchain technology is still in its infancy, it may not be accepted by some stakeholders, including suppliers, distributors and customers. This may limit the effectiveness of blockchain-based product authentication.
 
+## Conclusion
+
+- The use of blockchain technology has the potential to significantly contribute to the fight against counterfeiting.
+  
+- Prioritising and organising its implementation across various businesses is crucial.
+  
+- Despite assurances of its inherent security, there are growing dangers to applications built on blockchain technology.
+
+- There is a lack of a thorough review of the attack vectors currently used against blockchain-based systems.
+
+- Building STRATH Blockchain Technology: In order to adopt blockchain technology, businesses must identify dangers, obstacles, and strategies.
+
+- Supply chain blockchain technology implementation can result in strategic control and improved performance.
+
+- Vaccine supply chains can benefit from blockchain technology's improved trust, transparency, and traceability. However, there are certain obstacles to its adoption.
+
+- The size of the IoT infrastructure, lack of technical skills, and changes in organisational structure and policies are the main obstacles to adoption.
 
 ## Reference
 
