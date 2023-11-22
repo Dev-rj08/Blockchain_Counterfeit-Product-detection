@@ -125,7 +125,8 @@ In summary, the paper introduces a novel approach to combating counterfeit goods
 
 ### National
 ### A Survey on Blockchain: Evolution, Architecture and Security
-      Most of the national literature surveys has covered architecture of cryptocurrencies, smart contracts and general Blockchain based applications. The research advances in consensus are also highlighted with some key development and application frameworks. A detailed discussion with respect to future and open research avenues is also performed, which could help to pave the way for researchers to explore the key challenging areas in the Blockchain field.
+
+Most of the national literature surveys has covered architecture of cryptocurrencies, smart contracts and general Blockchain based applications. The research advances in consensus are also highlighted with some key development and application frameworks. A detailed discussion with respect to future and open research avenues is also performed, which could help to pave the way for researchers to explore the key challenging areas in the Blockchain field.
 
 ### Requirements needed:
 
@@ -134,3 +135,13 @@ In summary, the paper introduces a novel approach to combating counterfeit goods
 - ReactJS
 - Ethereum ecosystem
 - Express
+
+### A Block Chain Management System for Detecting Counterfeit Products in the Supply Chain
+
+The block market is the biggest challenge in the supply chain. The government has introduced several laws and regulations against fake products even though the government cannot control counterfeit products. In national status, they proposed a block blockchain management system that activates the consumer and enterprise vendor to track and identify the real product using a Smartphone. It also will detect counterfeit products as well as the authenticity of manufacturers for both end users and enterprise vendors.
+
+### A Block Chain Management System for Detecting Counterfeit Products in the Supply Chain
+
+The block market is the biggest challenge in the supply chain. The government has introduced several laws and regulations against fake products even though the government cannot control counterfeit products. In national status, they proposed a block blockchain management system that activates the consumer and enterprise vendor to track and identify the real product using a Smartphone. It also will detect counterfeit products as well as the authenticity of manufacturers for both end users and enterprise vendors.
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/5b0c248d-ca3a-447b-8479-26d76f6fcba8)
