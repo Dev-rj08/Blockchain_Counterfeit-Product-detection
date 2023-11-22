@@ -90,3 +90,6 @@ The literature review mentions that simulations have been conducted to assess th
 In summary, the paper introduces a novel approach to combating counterfeit goods by combining NFC and blockchain technology in a decentralized framework, proposing the block-supply chain. The unique consensus protocol of this system aims to address the shortcomings of centralized supply chains while maintaining a high level of security and efficiency, as demonstrated through simulations and comparison with existing protocols.
 
 
+## EXISTING METHODOLOGY
+
+<img width="754" alt="image" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/d73e0cdd-6c85-41f6-ba4d-c82daa118cfa">
