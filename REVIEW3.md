@@ -120,3 +120,17 @@ In summary, the paper introduces a novel approach to combating counterfeit goods
 - PyOTP for OTP generation
 - ERC-721 for Certification of genuine products
 - Web3.js to display product verification details to users in a user-friendly way.
+
+## STATUS
+
+### National
+### A Survey on Blockchain: Evolution, Architecture and Security
+      Most of the national literature surveys has covered architecture of cryptocurrencies, smart contracts and general Blockchain based applications. The research advances in consensus are also highlighted with some key development and application frameworks. A detailed discussion with respect to future and open research avenues is also performed, which could help to pave the way for researchers to explore the key challenging areas in the Blockchain field.
+
+### Requirements needed:
+
+- Blockchain based SCQL framework
+- Bootstrap
+- ReactJS
+- Ethereum ecosystem
+- Express
