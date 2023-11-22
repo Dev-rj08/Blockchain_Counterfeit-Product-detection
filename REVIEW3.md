@@ -67,6 +67,8 @@ The research employs the SWARA (Step-wise Weight Assessment Ratio Analysis) and 
 ### Application of SWARA-WASPAS for Prioritization:
 The heart of the research lies in the application of the SWARA-WASPAS methodology. Expert opinions and insights are systematically collected and analyzed using SWARA to assign appropriate weights to criteria. Following this, WASPAS is employed to evaluate and prioritize the application of blockchain in different industries, providing a structured and methodical approach to decision-making.
 
+In summary, the research paper addresses the complex decision-making environment surrounding safety and security in the face of counterfeit goods. It specifically focuses on the application potential of blockchain in combating counterfeiting within the Indian economy. The use of the SWARA-WASPAS methodology, guided by expert opinions, contributes to a systematic evaluation and prioritization of blockchain applications across various industries. This research is poised to provide valuable insights into effective decision-making for policymakers and governance systems in the realm of combating counterfeiting.
+
 
 ## Paper 2
 
@@ -84,3 +86,7 @@ Unlike existing protocols, the block-supply chain is entirely decentralized. Thi
 
 ### Simulations and Performance Evaluation:
 The literature review mentions that simulations have been conducted to assess the performance of the proposed block-supply chain. Results indicate that the protocol offers outstanding performance, demonstrating efficiency while maintaining a reasonable level of security. In particular, the paper compares the proposed block-supply chain consensus protocol with the state-of-the-art Tendermint consensus protocol, suggesting its competitiveness in the field.
+
+In summary, the paper introduces a novel approach to combating counterfeit goods by combining NFC and blockchain technology in a decentralized framework, proposing the block-supply chain. The unique consensus protocol of this system aims to address the shortcomings of centralized supply chains while maintaining a high level of security and efficiency, as demonstrated through simulations and comparison with existing protocols.
+
+
