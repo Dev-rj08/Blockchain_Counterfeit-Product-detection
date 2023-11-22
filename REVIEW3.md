@@ -145,3 +145,66 @@ The block market is the biggest challenge in the supply chain. The government ha
 The block market is the biggest challenge in the supply chain. The government has introduced several laws and regulations against fake products even though the government cannot control counterfeit products. In national status, they proposed a block blockchain management system that activates the consumer and enterprise vendor to track and identify the real product using a Smartphone. It also will detect counterfeit products as well as the authenticity of manufacturers for both end users and enterprise vendors.
 
 ![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/5b0c248d-ca3a-447b-8479-26d76f6fcba8)
+
+### IMPLEMENTATION AND PSEUDOCODE
+
+// Define a simplified structure for Seller
+struct Seller {
+    uint256 sellerId;
+    bytes32 sellerName;
+    bytes32 sellerCode;
+}
+
+// Define a simplified structure for Product
+struct Product {
+    uint256 productId;
+    bytes32 productSN;
+}
+
+// Define mappings to store sellers and products
+mapping(uint256 => Seller) public sellers;
+mapping(uint256 => Product) public products;
+
+// Function to add a seller
+function addSeller(uint256 _sellerId, bytes32 _sellerName, bytes32 _sellerCode) public {
+    sellers[_sellerId] = Seller(_sellerId, _sellerName, _sellerCode);
+}
+// Function to add a product
+function addProduct(uint256 _productId, bytes32 _productSN) public {
+    products[_productId] = Product(_productId, _productSN);
+}
+
+// Function to associate a product with a seller
+function associateProductWithSeller(uint256 _productId, uint256 _sellerId) public {
+    // Add logic to associate the product with the seller
+}
+
+// Function to view sellers
+function viewSellers() public view returns (uint256[] memory, bytes32[] memory, bytes32[] memory) {
+    // Implement logic to retrieve seller details and return the required data
+}
+
+// Function to view products
+function viewProducts() public view returns (uint256[] memory, bytes32[] memory) {
+    // Implement logic to retrieve product details and return the required data
+}
+
+### METHODOLOGY
+
+The proposed  decentralized system, leveraging Ethereum's blockchain technology, is designed to verify product authenticity and involves key stakeholders such as administrators, manufacturers, and customers. Administrators initiate the process by logging in to validate new manufacturers, ensuring that only legitimate entities can participate. Once manufacturers are verified, they log in to generate unique QR codes for their products and input product details, including certification information. These QR codes act as digital identifiers for each product. Blockchain technology, specifically Ethereum, is employed to securely and immutably store product details and certification data. A Certificate of Quality is issued and stored on the blockchain, providing assurance of product authenticity and quality. Customers can easily verify the legitimacy of the product by scanning QR codes to access detailed information and certificates. The cloud infrastructure hosts the blockchain network, ensuring scalability and availability, with Network Interface Cards facilitating connectivity between devices and the cloud infrastructure.
+
+### CONCLUSION
+
+Safeguarding Authenticity with Blockchain
+In conclusion, our blockchain-based Counterfeit Product Detection project represents a significant stride towards securing the integrity of products in the market. By leveraging the power of blockchain technology, we have successfully created a robust system that:
+	Ensures Transparency: The decentralized nature of blockchain provides an immutable ledger, guaranteeing transparency throughout the supply chain.
+	Enhances Trust: Consumers can now trust the authenticity of products, fostering brand loyalty and confidence in the marketplace.
+	Reduces Counterfeiting: Our solution acts as a formidable barrier against counterfeiters, disrupting their attempts and safeguarding the interests of both consumers and producers.
+	Streamlines Verification: Real-time verification through blockchain simplifies the authentication process, saving time and resources for all stakeholders involved.
+
+
+### CONCLUSION - The Future of Product Integrity
+
+As we move forward, the integration of blockchain technology in supply chain management is poised to redefine industry standards. Our project stands as a testament to the transformative potential of blockchain in combating counterfeit products.
+
+Thank you for your attention and engagement throughout this presentation. Together, let's build a future where authenticity is indisputable, and consumers can trust the products they purchase.
