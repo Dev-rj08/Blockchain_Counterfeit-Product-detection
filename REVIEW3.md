@@ -98,3 +98,25 @@ In summary, the paper introduces a novel approach to combating counterfeit goods
 
 <img width="686" alt="image" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/b3bdc039-490b-4592-8811-d66891661c01">
 
+## REQUIREMENTS
+
+### HARDWARE REQUIREMENTS:
+
+- QR Scanner
+- IOT Sensors
+- Label Printers for QR code labels 
+- Radio Frequency Identification (RFID) Readers
+- Cloud Infrastructure to host blockchain network
+- Mobile Devices to scan QR and authenticate
+- Network Interface Cards (NIC)
+
+### SOFTWARE REQUIREMENTS
+
+- Solidity for smart contracts
+- Geth for Ethereum client
+- MetaMask
+- Solc 
+- Remix IDE
+- PyOTP for OTP generation
+- ERC-721 for Certification of genuine products
+- Web3.js to display product verification details to users in a user-friendly way.
