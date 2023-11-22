@@ -47,3 +47,22 @@
 - Combatting Fraud in Counterfeit Activities: Investigate and address fraudulent activities linked to counterfeit products, safeguarding both businesses and consumers from deceptive practices and potential harm.
 
 - Legal Protection for Businesses: Develop legal protections for businesses in cases of disputes or legal actions related to counterfeit products, ensuring a robust framework for addressing legal challenges.
+
+## Literature Review
+
+### Paper 1
+
+### Introduction to the Complex Decision-Making Environment:
+The abstract begins by highlighting the complexity of decision-making at the top level, emphasizing the significant responsibility of policy makers and governance systems. Specifically, the focus is on planning safety and security for citizens and consumers concerning counterfeit goods in firms.
+
+### Research Focus on Counterfeiting in Today's Economy:
+The primary concern addressed by this research is the pervasive issue of counterfeiting in the contemporary business environment. Counterfeiting poses a threat to both citizens and consumers, and the paper seeks to investigate potential solutions to address this challenge.
+
+### Utilization of Distributed Ledger Technologies, Specifically Blockchain:
+The research specifically explores the potential of distributed ledger technologies, with a primary focus on blockchain. It recognizes the unique attributes of blockchain and aims to assess its application potential in combating the problem of counterfeiting within the Indian economy.
+
+### Methodology Employed: SWARA-WASPAS:
+The research employs the SWARA (Step-wise Weight Assessment Ratio Analysis) and WASPAS (Weighted Aggregated Sum Product Assessment) methodology. These methodologies are applied after gathering expert opinions to gain a comprehensive understanding of the counterfeiting problem. SWARA is utilized to evaluate the weights of criteria, while WASPAS is applied to assess and prioritize alternatives.
+
+### Application of SWARA-WASPAS for Prioritization:
+The heart of the research lies in the application of the SWARA-WASPAS methodology. Expert opinions and insights are systematically collected and analyzed using SWARA to assign appropriate weights to criteria. Following this, WASPAS is employed to evaluate and prioritize the application of blockchain in different industries, providing a structured and methodical approach to decision-making.
