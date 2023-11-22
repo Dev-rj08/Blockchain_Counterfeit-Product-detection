@@ -31,3 +31,13 @@
 - Streamline Consumer Authentication: Provide a user-friendly and efficient method for consumers to easily verify the authenticity of products, promoting a seamless authentication experience.
 
 - Promote Trust in Goods: Foster consumer confidence by implementing measures that not only combat counterfeit
+
+## Objectives
+
+- Blockchain Verification for Product Authenticity:  Utilize blockchain to examine and confirm the legitimacy of products, ensuring that only authentic items enter the market.
+   
+- Consumer Protection Against Counterfeits: Safeguard consumers from purchasing fake products, prioritizing their safety and fostering confidence in the authenticity of their purchases.
+   
+- Preserving Brand Reputation: Investigate mechanisms to shield brand reputation and integrity by proactively preventing counterfeit products from infiltrating the market under the brand's name.
+   
+- Enhancing Supply Chain Transparency: Explore supply chain transparency through the creation of an unalterable record for each product, providing insights into its journey from production to market.
