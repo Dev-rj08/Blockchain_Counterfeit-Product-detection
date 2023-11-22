@@ -93,3 +93,8 @@ In summary, the paper introduces a novel approach to combating counterfeit goods
 ## EXISTING METHODOLOGY
 
 <img width="754" alt="image" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/d73e0cdd-6c85-41f6-ba4d-c82daa118cfa">
+
+## PROPOSED METHODOLOGY
+
+<img width="686" alt="image" src="https://github.com/Dev-rj08/Blockchain_Project23/assets/142731715/b3bdc039-490b-4592-8811-d66891661c01">
+
