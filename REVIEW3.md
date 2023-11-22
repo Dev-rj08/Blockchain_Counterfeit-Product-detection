@@ -50,7 +50,7 @@
 
 ## Literature Review
 
-### Paper 1
+## Paper 1
 
 ### Introduction to the Complex Decision-Making Environment:
 The abstract begins by highlighting the complexity of decision-making at the top level, emphasizing the significant responsibility of policy makers and governance systems. Specifically, the focus is on planning safety and security for citizens and consumers concerning counterfeit goods in firms.
@@ -66,3 +66,21 @@ The research employs the SWARA (Step-wise Weight Assessment Ratio Analysis) and 
 
 ### Application of SWARA-WASPAS for Prioritization:
 The heart of the research lies in the application of the SWARA-WASPAS methodology. Expert opinions and insights are systematically collected and analyzed using SWARA to assign appropriate weights to criteria. Following this, WASPAS is employed to evaluate and prioritize the application of blockchain in different industries, providing a structured and methodical approach to decision-making.
+
+
+## Paper 2
+
+### Current Challenges in Anti-Counterfeiting Supply Chains:
+The literature review highlights that existing supply chain systems designed to combat counterfeit goods face challenges due to their reliance on a centralized authority. This centralization introduces issues related to storage, failure, and a vulnerability to single-point processing failures.
+
+### Introduction of Blockchain Technology as a Solution:
+Recognizing the limitations of centralized supply chains, the paper suggests that blockchain technology emerges as a potential solution to address these challenges. Blockchain's decentralized and distributed ledger nature can mitigate problems related to storage, reduce the risk of failure, and eliminate the susceptibility to a single point of processing failure.
+
+### Proposal of the Block-Supply Chain:
+The primary contribution of the paper is the introduction of the "block-supply chain." This innovative approach utilizes both Near Field Communication (NFC) and blockchain technology to detect and prevent counterfeiting attempts. The proposed block-supply chain aims to replace the traditional centralization with a new consensus protocol designed to strike a balance between security and efficiency.
+
+### Decentralization and Consensus Protocol:
+Unlike existing protocols, the block-supply chain is entirely decentralized. This means that there is no single central authority governing the supply chain. Instead, the proposed consensus protocol, unique to block-supply chain, is introduced to manage and validate transactions. This shift towards decentralization is a key feature that contributes to the project's resilience and security.
+
+### Simulations and Performance Evaluation:
+The literature review mentions that simulations have been conducted to assess the performance of the proposed block-supply chain. Results indicate that the protocol offers outstanding performance, demonstrating efficiency while maintaining a reasonable level of security. In particular, the paper compares the proposed block-supply chain consensus protocol with the state-of-the-art Tendermint consensus protocol, suggesting its competitiveness in the field.
