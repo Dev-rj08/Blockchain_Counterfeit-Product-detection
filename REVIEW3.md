@@ -16,6 +16,11 @@
 
 “How can blockchain technology be harnessed to create a self-regulating ecosystem that not only identifies counterfeit products but also actively prevents their circulation through real-time tracking and authentication mechanisms?"
 
+## Applications
+
+ A fully functional application of fake product identification can effectively reduce the threshold of anti-counterfeit branded products and provide industries with limited funds and a more straightforward approach to provide consumers with confidence and reassurance that they do not buy fake goods, which is unacceptable. All in all, this application based on blockchain technology could prove to be a lifesaver saver for companies and provide a new trading, ordering, and purchasing system that is more secure and friendly. The future operation of the system can be proof of the simplicity of the code, which can indirectly increase the trust of consumers in decentralized applications.
+
+
 ## Importance of Application
 
 - Elevate Supply Chain Transparency:  Enhance transparency within the supply chain to ensure a clear view of product movements and origins.
