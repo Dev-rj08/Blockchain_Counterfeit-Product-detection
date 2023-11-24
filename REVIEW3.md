@@ -189,6 +189,54 @@ function viewProducts() public view returns (uint256[] memory, bytes32[] memory)
     // Implement logic to retrieve product details and return the required data
 }
 
+### DEMONSTRATION
+
+#### Home Page
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/46c49d93-c651-43c6-99e8-94dfbe8a5406)
+
+#### In manufacture we are adding product details
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/eba52673-4e3c-4c59-9391-5e7986af1267)
+
+#### Qr code is generated and we can download the Qr
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/71b3c66c-5e49-4a5c-a262-4c016031768f)
+
+#### Adding Seller details
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/4ad1471b-3dd6-4647-8ef0-68a30e9763de)
+
+#### Selling Product To the seller
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/5bba74d3-be2f-4fe8-8e63-02cbbec15e1f)
+
+#### Query Sellers
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/b44d77fa-8065-45c6-945e-5b09e9e4832b)
+
+#### Selling product to consumer
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/7fed5ff8-7ed3-4636-bd53-5e83f707b762)
+
+#### Details about available products
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/05a5d342-1466-4def-87b6-42931318678b)
+
+#### Consumer purchase history
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/eda6959a-ba4a-4019-89de-8144c3d79ab2)
+
+#### Product Verification
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/a4f179e4-dd25-47fb-bf7b-9a65b7eabada)
+
+
+#### Gives output as Genuine or Fake Product
+
+![image](https://github.com/Dev-rj08/Blockchain_Project23/assets/110756145/b2189103-d56a-406a-821e-1a1c39528e7d)
+
+
 ### METHODOLOGY
 
 The proposed  decentralized system, leveraging Ethereum's blockchain technology, is designed to verify product authenticity and involves key stakeholders such as administrators, manufacturers, and customers. Administrators initiate the process by logging in to validate new manufacturers, ensuring that only legitimate entities can participate. Once manufacturers are verified, they log in to generate unique QR codes for their products and input product details, including certification information. These QR codes act as digital identifiers for each product. Blockchain technology, specifically Ethereum, is employed to securely and immutably store product details and certification data. A Certificate of Quality is issued and stored on the blockchain, providing assurance of product authenticity and quality. Customers can easily verify the legitimacy of the product by scanning QR codes to access detailed information and certificates. The cloud infrastructure hosts the blockchain network, ensuring scalability and availability, with Network Interface Cards facilitating connectivity between devices and the cloud infrastructure.
