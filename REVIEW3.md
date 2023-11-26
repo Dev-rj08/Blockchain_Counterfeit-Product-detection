@@ -211,7 +211,7 @@ The block market is the biggest challenge in the supply chain. The government ha
 
 
 ### IMPLEMENTATION AND PSEUDOCODE
-
+```
 // Define a simplified structure for Seller
 struct Seller {
     uint256 sellerId;
@@ -252,6 +252,7 @@ function viewSellers() public view returns (uint256[] memory, bytes32[] memory, 
 function viewProducts() public view returns (uint256[] memory, bytes32[] memory) {
     // Implement logic to retrieve product details and return the required data
 }
+```
 
 #CODE:
 ```pragma solidity ^0.8.12;
